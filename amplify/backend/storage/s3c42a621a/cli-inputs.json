@@ -1,0 +1,12 @@
+{
+  "resourceName": "s3c42a621a",
+  "policyUUID": "c42a621a",
+  "bucketName": "reactawsampwebappb38b42d2e67d4793a1b5584112d443",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "READ"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}
